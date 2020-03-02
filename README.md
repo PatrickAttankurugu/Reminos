@@ -41,8 +41,8 @@ This project currently has no other
 *Other programming languages will be added as and when needed.
 
 
-
-EMAIL:patricka.azuma@gmail.com [^1]
+ [^1
+EMAIL:patricka.azuma@gmail.com]
 
 
 
