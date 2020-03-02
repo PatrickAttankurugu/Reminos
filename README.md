@@ -1,4 +1,4 @@
-# PROJECT TITLE
+# REMINOS
 
 
 ![alt text](REMINOS.jpg)
@@ -39,6 +39,9 @@ This project currently has no other
 *SQL
 *Microsoft Excel
 *Other programming languages will be added as and when needed.
+
+EMAIL:patricka.azuma@gmail.com [^1]
+[^1] here is the footnote
 
 
 
