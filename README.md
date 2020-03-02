@@ -43,7 +43,7 @@ This project currently has no other
 
 
 EMAIL:patricka.azuma@gmail.com [^1]
-[^1] here is the footnote
+
 
 
 
