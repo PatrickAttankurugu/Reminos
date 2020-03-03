@@ -35,7 +35,7 @@ This project currently has no other
  contributor but the author.Please request to be one.
 
  ## License & copyright
- Copyright (c) [2020] [Patrick Attankurugu]
+ © Patrick Attankurugu, University of Ghana
 
 Licensed under the [MIT License](LICENSE)
 
@@ -47,7 +47,7 @@ Licensed under the [MIT License](LICENSE)
 
 
  
-{{FOOTER:EMAILpatricka.azuma@gmail.com}}
+**EMAIL**patricka.azuma@gmail.com
 
 
 
