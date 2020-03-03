@@ -7,6 +7,9 @@ This project- Reminos is a reminder desktop application. It is intended to be ab
 
 ## GETTING STARTED
 
+## WHAT YOU NEED TO KNOW
+I used the chrome extension "Social birthday export" to export my facebook birthday calender into a CSV file
+
 
 
 
