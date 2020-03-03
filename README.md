@@ -42,7 +42,7 @@ This project currently has no other
 
 
  
-{{FOOTER:EMAIL:patricka.azuma@gmail.com}}
+{{FOOTER:EMAIL patricka.azuma@gmail.com}}
 
 
 
