@@ -17,12 +17,9 @@ However, as humans,the neurons which are responsible for our learning cannot rea
 ## GETTING STARTED
 
 ## WHAT YOU NEED TO KNOW
-I used the chrome extension "Social birthday export" to export my facebook birthday calender into a CSV file
+I used the chrome extension "Social birthday export" to export my facebook birthday calender into a CSV file.
 
-
-
-
-
+This app is a start up application. What I mean by this is that, the app lauches and is always running whenever your system is on. You can turn this off by simply searching 'startup apps' on your desktop search bar. The startup app settings will appear. Click on this and turn it off. But this means that the program will not be able to send you notifications again until you turn it on.
 
 
 ## Prerequisites
@@ -42,6 +39,10 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 ## Contributors
 This project currently has no other
  contributor but the author.Please request to be one.
+
+# I will appreciate this
+
+I am an intermediate python developer and does not really know much. Please let me know how I can improve should you find any errors associated with my code. 
 
  
 # TO BE BUILT WITH
