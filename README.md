@@ -34,8 +34,10 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 This project currently has no other
  contributor but the author.Please request to be one.
 
- ## License
+ ## License & copyright
+ Copyright (c) [2020] [Patrick Attankurugu]
 
+Licensed under the [MIT License](LICENSE)
 
 # TO BE BUILT WITH
 *Python
