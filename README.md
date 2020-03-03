@@ -62,8 +62,17 @@ I am an intermediate python developer and does not really know much. Please let 
 [LinkedIn](https://www.linkedin.com/in/patrick-attankurugu-b17a60151/)
 **Or send me an email**:patricka.azuma@gmail.com
 
+
+
+
+
+
+
+
+
 ## License & copyright
  © Patrick Attankurugu, University of Ghana
+
 Licensed under the [MIT License](LICENSE)
 
 
