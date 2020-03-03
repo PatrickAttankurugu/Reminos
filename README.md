@@ -51,6 +51,11 @@ I am an intermediate python developer and does not really know much. Please let 
 * Microsoft Excel
 * Other programming languages will be added as and when needed.
 
+## Scheduled Deadline for this project
+31/03/2020
+
+
+
 
 ## License & copyright
  © Patrick Attankurugu, University of Ghana
