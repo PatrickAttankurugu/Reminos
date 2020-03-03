@@ -57,8 +57,7 @@ Licensed under the [MIT License](LICENSE)
 
 ## CONTACT 
 
-[EMAIL ME](patricka.azuma@gmail.com)
-**Or connect with me on:
+**Connect with me on**
 [LINKEDIN](https://www.linkedin.com/in/patrick-attankurugu-b17a60151/)
 
 
