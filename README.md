@@ -67,11 +67,6 @@ I am an intermediate python developer and does not really know much. Please let 
 
 
 
-<MAILTO:FOO@BAR.BAZ>
-
-
-
-
 ## License & copyright
  © Patrick Attankurugu, University of Ghana
 
