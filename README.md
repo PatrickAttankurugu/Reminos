@@ -26,6 +26,7 @@ This app is a start up application. What I mean by this is that, the app lauches
 
 ## Setup:
 $ git clone https://github.com/PatrickAttankurgu/Reminos
+
 $ cd Reminos
 
 
