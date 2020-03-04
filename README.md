@@ -24,7 +24,9 @@ This app is a start up application. What I mean by this is that, the app lauches
 
 ## Prerequisites
 
-
+## Setup:
+$ git clone https://github.com/PatrickAttankurgu/Reminos
+$ cd Reminos
 
 
 
@@ -65,7 +67,7 @@ I am an intermediate python developer and does not really know much. Please let 
 
 
 
-
+<MAILTO:FOO@BAR.BAZ>
 
 
 
