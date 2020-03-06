@@ -16,8 +16,6 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from faker import Factory
 
-# HOW FLASK APP WORKS
-#All Flask app code is in app.py. As you probably want to host this in the cloud,
 # authentication is there from the start.
 
 #This is done by adding the login_required decorator to all private routes. 
